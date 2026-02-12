@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, eu sou o Gustavo Santos!</h1>
 
 <p align="center">
-  Estudando para me tornar Desenvolvedor web | Apaixonado por Tecnologia 🚀
+  Estudando para me tornar Desenvolvedor web 
 </p>
 
 ---
