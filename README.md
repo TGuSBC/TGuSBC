@@ -9,7 +9,8 @@
 
 ## 🚀 Projetos em destaque
 
-- 🔗 [Projeto 2]([link](https://github.com/TGuSBC/Tecboard.git))
+- 🔗 Projeto Tecboard Alura (https://github.com/TGuSBC/Tecboard.git)
+- 🔗 [Projeto 3](link)
 - 🔗 [Projeto 3](link)
 
 ---
