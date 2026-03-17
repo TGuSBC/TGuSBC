@@ -9,7 +9,7 @@
 
 ## 🚀 Projetos em destaque
 
-- 🔗 [Projeto 1](link)
+- 🔗 [[Projeto 1](link)](https://github.com/TGuSBC/Tecboard.git)
 - 🔗 [Projeto 2](link)
 - 🔗 [Projeto 3](link)
 
