@@ -9,8 +9,7 @@
 
 ## 🚀 Projetos em destaque
 
-- 🔗 [[Projeto de Aula da alura]([https://github.com/TGuSBC/Tecboard.git]]
-- 🔗 [Projeto 2](link)
+- 🔗 [Projeto 2]([link](https://github.com/TGuSBC/Tecboard.git))
 - 🔗 [Projeto 3](link)
 
 ---
