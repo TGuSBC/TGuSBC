@@ -1,8 +1,17 @@
-<h1 align="center">Olá 👋, eu sou o Gustavo Santos!</h1>
+# Olá 👋, eu sou o Gustavo Santos!
 
-<p align="center">
-  Estudando para me tornar Desenvolvedor web 
-</p>
+💻 Desenvolvedor Front-End em formação  
+🚀 HTML, CSS e JavaScript  
+📚 Estudante de ADS  
+🎯 Buscando minha primeira oportunidade  
+
+---
+
+## 🚀 Projetos em destaque
+
+- 🔗 [Projeto 1](link)
+- 🔗 [Projeto 2](link)
+- 🔗 [Projeto 3](link)
 
 ---
 
@@ -13,5 +22,8 @@
 
 ---
 
-### 📫 Contato
-- 📧 gs6923698@gmail.com
+## 📫 Contato
+
+- Email: seuemail@gmail.com
+- LinkedIn: (link)
+
