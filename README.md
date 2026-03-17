@@ -24,4 +24,3 @@
 
 ### 📫 Contato
 - 📧 gs6923698@gmail.com
-- 📧 gus43471@gmail.com
