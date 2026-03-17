@@ -10,8 +10,7 @@
 ## 🚀 Projetos em destaque
 
 - 🔗 Projeto Tecboard Alura (https://tgusbc.github.io/Tecboard/)
-- 🔗 [Projeto 3](link)
-- 🔗 [Projeto 3](link)
+- 🔗 Projeto pessoal incompleto de controle de estoque (https://tgusbc.github.io/Controle-de-estoque2/)
 
 ---
 
