@@ -23,6 +23,7 @@
 
 ## 📫 Contato
 
-- Email: seuemail@gmail.com
-- LinkedIn: (link)
+- Email: gs6923698@gmail.com
+- LinkedIn: www.linkedin.com/in/gustavosbc
+
 
